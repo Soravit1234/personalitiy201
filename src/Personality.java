@@ -42,5 +42,6 @@ public class Personality {
 		else {
 				return "argumentative";
 		}
+		}
 	}
 }
