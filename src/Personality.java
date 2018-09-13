@@ -37,6 +37,6 @@ public class Personality {
 	 */
 	
 	public String getDescription() {
-		return "argumentative";
+		return "playful";
 	}
 }
