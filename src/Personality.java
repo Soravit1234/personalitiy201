@@ -38,10 +38,10 @@ public class Personality {
 	
 	public String getDescription() {
 		if (myName.length() <= 4) {
-		return "playful";
+		return "playful";}
 		else {
 				return "argumentative";
 		}
 		}
 	}
-}
+
